@@ -62,10 +62,6 @@ This function is used to remove the png files in ```./pngs``` directory.
 I use the GIF files that is 'Gojo Satoru' from 'Jujutsu Kaisen' dancing.
 <img src="C:\Users\peter\Desktop\과기대\3-1\컴퓨터비전\과제\frames_screenshot.png">
 ### The first video of chessboard
-<div style="border: 1px solid #d0d7de; border-radius: 6px;">
-  <div style="padding: 10px; background-color: #f6f8fa; border-bottom: 1px solid #d0d7de; font-family: sans-serif;">
-    🎥 chessboard.mov
-  </div>
-  <video src="영상_파일_경로/chessboard.mov" controls style="width: 100%; display: block;">
-  </video>
-</div>
+is uploaded as 'chessboard1.mp4'
+### Result video 
+is uploaded as 'output_high_res.mp4'
